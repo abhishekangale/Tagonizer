@@ -1,0 +1,8 @@
+C:\Users\vidhi\source\repos\Tagonizer\Tagonizer\x64\Debug\Tagonizer.vcxproj.AssemblyReference.cache
+C:\Users\vidhi\source\repos\Tagonizer\Tagonizer\x64\Debug\Tagonizer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\vidhi\source\repos\Tagonizer\Tagonizer\x64\Debug\Tagonizer.MyForm.resources
+C:\Users\vidhi\source\repos\Tagonizer\Tagonizer\x64\Debug\Tagonizer.vcxproj.GenerateResource.cache
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\x64\Debug\Tagonizer.vcxproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\x64\Debug\Tagonizer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\x64\Debug\Tagonizer.MyForm.resources
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\x64\Debug\Tagonizer.vcxproj.GenerateResource.cache
