@@ -1,5 +1,10 @@
 ﻿  MyForm.cpp
 C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(374,20): warning C4101: 'e': unreferenced local variable
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(410,22): warning C4101: 'e': unreferenced local variable
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(415,21): warning C4101: 'e': unreferenced local variable
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(448,21): warning C4101: 'e': unreferenced local variable
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(467,21): warning C4101: 'e': unreferenced local variable
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(501,21): warning C4101: 'e': unreferenced local variable
+C:\Users\pooja\Desktop\Tagonizer\Tagonizer\Tagonizer\MyForm.h(506,20): warning C4101: 'e': unreferenced local variable
   MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   Tagonizer.vcxproj -> C:\Users\pooja\Desktop\Tagonizer\Tagonizer\x64\Debug\Tagonizer.exe
